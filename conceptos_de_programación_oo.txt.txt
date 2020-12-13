@@ -1,3 +1,4 @@
 programacion arientada a objetos
 
 concepto 1: la programacion es un paradigma o modelo a seguir para resolver un problema
+Concepto N°2 la POO resuelve un problema identificando objetos en un escenario
